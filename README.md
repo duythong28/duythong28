@@ -1,4 +1,8 @@
-<h2 align="Left">Hi there, I'm Duy Thong 👋</h2>
+<h2 align="Left">
+ Hi there, I'm Duy Thong<a>
+  <img width="30" height="25" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="duythong28" /></a>
+</h2>
+
 
 
 - 👨‍🎓 I’m currently a Software Engineering student at [University Of Information Technology](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
