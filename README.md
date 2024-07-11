@@ -12,7 +12,8 @@
 <h2 align="center">Connect With Me</h2>
 <p align="center">
 <a href="https://linkedin.com/in/duythong28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duythong28" height="30" width="40" /></a>
- <a href="https://www.behance.net/ddthon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ddthon" height="30" width="40" /></a>
+ <a href="https://fb.com/https://www.facebook.com/d.d.thon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/d.d.thon" height="30" width="40" /></a>
+  <a href="https://www.behance.net/ddthon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ddthon" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages and Tools</h3>
