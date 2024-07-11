@@ -1,6 +1,6 @@
 <h2 align="center">
-  <a><img  width="100" src="https://storage.googleapis.com/creatorspace-public/users%2Fcluobg3i103j1nu01w3j8knfn%2F7NDTPA1UDlWThb9j-ami_xuathien2.gif" alt="duythong28" /></a><br/>
- Hi there, I'm Duy Thong
+   Hi there, I'm Duy Thong <br/>
+  <a><img  width="100" src="https://storage.googleapis.com/creatorspace-public/users%2Fcluobg3i103j1nu01w3j8knfn%2F7NDTPA1UDlWThb9j-ami_xuathien2.gif" alt="duythong28" /></a>
 </h2>
 
 
