@@ -1,8 +1,9 @@
+![image](https://github.com/user-attachments/assets/43ab026e-6344-4298-9b9f-799e8d05b984)
+
+
 <h2 align="center">
    Hi there, I'm Duy Thong <br/>
 </h2>
-
-
 
 <p align="center">👨‍🎓 I’m currently a Software Engineering student at University Of Information Technology</p> 
 <p align="center">🌱 I love learning about Technology</p>
