@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/43ab026e-6344-4298-9b9f-799e8d05b984)
-
 
 <h2 align="center">
    Hi there, I'm Duy Thong <br/>
