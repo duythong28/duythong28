@@ -1,8 +1,7 @@
-
+<img src="https://i.vimeocdn.com/video/1447124476-e82d999225f9bba73ffb0f0c845ab44e81345ccf9e5ae7a0f14075d71b1fe530-d?mw=1100&mh=619" style="max-width:100%; height:auto;"></img>
 <h2 align="center">
    Hi there, I'm Duy Thong <br/>
 </h2>
-
 <p align="center">👨‍🎓 I’m currently a Software Engineering student at University Of Information Technology</p> 
 <p align="center">🌱 I love learning about Technology</p>
 <p align="center">💬 Ask me about anything, I am happy to help</p>
